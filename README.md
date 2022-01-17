@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayan
 - 👀 I’m interested in Web development, Cyber Security, Social Engineering
-- 🌱 I’m currently learning React, Vue.js
+<!-- - 🌱 I’m currently learning React, Vue.js -->
 
 
 <!---
